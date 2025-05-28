@@ -2,5 +2,13 @@
     "kabelo": {
         "password": "mpofu",
         "vault": {}
+    },
+    "mpofu": {
+        "password": "1400/800",
+        "vault": {}
+    },
+    "king": {
+        "password": "2345432",
+        "vault": {}
     }
 }
