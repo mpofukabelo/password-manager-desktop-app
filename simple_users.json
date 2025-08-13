@@ -1,14 +1,6 @@
 {
-    "kabelo": {
-        "password": "mpofu",
-        "vault": {}
-    },
-    "mpofu": {
-        "password": "1400/800",
-        "vault": {}
-    },
-    "king": {
-        "password": "2345432",
+    "kabelo mpofu": {
+        "password": "cdc79911bf90c15edfced51b1fe5a3c95998cfe36034c005c44c64c82f60e1da",
         "vault": {}
     }
 }
